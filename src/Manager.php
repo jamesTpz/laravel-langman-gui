@@ -1,6 +1,6 @@
 <?php
 
-namespace TpzJames\LangmanGUI;
+namespace Jamestpz\LangmanGUI;
 
 use Illuminate\Contracts\Filesystem\FileNotFoundException;
 use Illuminate\Filesystem\Filesystem;
