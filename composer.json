@@ -1,12 +1,12 @@
 {
-    "name": "jamesTpz/laravel-langman-gui",
+    "name": "jamestpz/laravel-langman-gui",
     "description": "Manage language files with ease.",
     "keywords": [
         "laravel",
         "localization",
         "multilingual"
     ],
-    "homepage": "https://github.com/jamesTpz/laravel-langman-gui",
+    "homepage": "https://github.com/jamestpz/laravel-langman-gui",
     "license": "MIT",
     "authors": [
         {
