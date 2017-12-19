@@ -1,33 +1,33 @@
 {
-    "name": "themsaid/laravel-langman-gui",
+    "name": "jamesTpz/laravel-langman-gui",
     "description": "Manage language files with ease.",
     "keywords": [
         "laravel",
         "localization",
         "multilingual"
     ],
-    "homepage": "https://github.com/themsaid/laravel-langman-gui",
+    "homepage": "https://github.com/jamesTpz/laravel-langman-gui,
     "license": "MIT",
     "authors": [
         {
-            "name": "Mohamed Said",
-            "email": "theMohamedSaid@gmail.com",
-            "homepage": "https://themsaid.com"
+            "name": "James Richard",
+            "email": "james@tpz.fr",
+            "homepage": "http://www.troispointzero.fr"
         }
     ],
     "require": {
-        "php": "^7.0 || ^7.1",
+        "php": "^5.5.9 || ^7.0",
         "illuminate/translation": "~5.4"
     },
     "autoload": {
         "psr-4": {
-            "Themsaid\\LangmanGUI\\": "src"
+            "TpzJames\\LangmanGUI\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Themsaid\\LangmanGUI\\LangmanServiceProvider"
+                "TpzJames\\LangmanGUI\\LangmanServiceProvider"
             ]
         }
     }
