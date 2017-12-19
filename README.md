@@ -22,13 +22,13 @@ $ composer require themsaid/laravel-langman-gui
 Once done, add the following line in your providers array of `config/app.php`:
 
 ```php
-Themsaid\LangmanGUI\LangmanServiceProvider::class
+TpzJames\LangmanGUI\LangmanServiceProvider::class
 ```
 
 Then publish the configuration file & assets:
 
 ```
-php artisan vendor:publish --provider=Themsaid\\LangmanGUI\\LangmanServiceProvider
+php artisan vendor:publish --provider=TpzJames\\LangmanGUI\\LangmanServiceProvider
 ```
 
 ## Usage
