@@ -21,13 +21,13 @@
     },
     "autoload": {
         "psr-4": {
-            "TpzJames\\LangmanGUI\\": "src"
+            "Jamestpz\\LangmanGUI\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "TpzJames\\LangmanGUI\\LangmanServiceProvider"
+                "Jamestpz\\LangmanGUI\\LangmanServiceProvider"
             ]
         }
     }
