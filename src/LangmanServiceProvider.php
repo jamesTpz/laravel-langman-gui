@@ -1,6 +1,6 @@
 <?php
 
-namespace TpzJames\LangmanGUI;
+namespace Jamestpz\LangmanGUI;
 
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\ServiceProvider;
